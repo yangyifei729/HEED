@@ -1,0 +1,8 @@
+MainImage
+Manufacturer
+Name
+Price
+Rating
+NumberofReviews
+ProductCode
+OutOfStock
